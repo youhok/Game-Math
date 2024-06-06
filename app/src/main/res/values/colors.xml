@@ -1,0 +1,5 @@
+<resources>
+    <color name="start_button_color">#4CAF50</color> <!-- Green -->
+    <color name="submit_button_color">#2196F3</color> <!-- Blue -->
+    <color name="try_again_button_color">#FF5722</color> <!-- Orange -->
+</resources>
